@@ -1,2 +1,2 @@
 # Java-task
-Java task in third year of college
+Java task in the third year of college
